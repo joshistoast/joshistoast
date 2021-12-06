@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**joshwcorbett/joshwcorbett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Josh Corbett, front-end web developer, designer and software engineer for 4 years from the USA.
 
-Here are some ideas to get you started:
+#### 🔭 Currently working on:
+A new shopping experience for [Flag Nor Fail](https://flagnorfail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚡ Side Projects:
+[Wordly](https://wordly.joshcorbett.com)
+
+#### 🔨 Tools I Use
+`vue.js` `nuxt.js` `graphql` `postcss` `tailwind.css` `figma` `git` `etc.`
+
+#### 📫 How to reach me
+I'm unavailable for freelance projects at the moment, but you can always hit me up via email [joshwcorbett@icloud.com](mailto:joshwcorbett@icloud.com)
