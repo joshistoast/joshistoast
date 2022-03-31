@@ -20,7 +20,16 @@ A new shopping experience for [Flag Nor Fail](https://flagnorfail.com)
 [Wordly](https://wordly.joshcorbett.com)
 
 #### 🔨 Tools I Use
-`vue.js` `nuxt.js` `graphql` `postcss` `tailwind.css` `figma` `git` `etc.`
+<div style="display:flex;flex-direction:row;flex-wrap:wrap">
+  <a href="https://www.typescriptlang.org/"><img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343" /></a>
+  <a href="https://vuejs.org"><img width="40px" height="40px" src="https://github.com/vuejs/art/blob/master/logo.png?raw=true" /></a>
+  <a href="https://nuxtjs.org"><img width="40px" height="40px" src="https://nuxtjs.org/design-kit/colored-logo.png" /></a>
+  <a href="https://graphql.org"><img width="40px" height="40px" src="https://graphql.org/img/logo.svg" /></a>
+  <a href="https://postcss.org"><img width="40px" height="40px" src="https://postcss.org/assets/postcss.83d93145.svg" /></a>
+  <a href="https://tailwindcss.com"><img width="40px" height="40px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" /></a>
+  <a href="https://figma.com"><img width="40px" height="40px" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" /></a>
+  <a href="https://git-scm.com/"><img width="40px" height="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
+</div>
 
 #### 📫 How to reach me
 I'm unavailable for freelance projects at the moment, but you can always hit me up via email [joshwcorbett@icloud.com](mailto:joshwcorbett@icloud.com)
