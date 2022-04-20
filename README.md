@@ -11,7 +11,7 @@
 </div>
 
 
-I'm Josh Corbett, front-end web developer, designer and software engineer for 4 years from the USA.
+I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 
 #### 🔭 Currently working on:
 A new shopping experience for [Flag Nor Fail](https://flagnorfail.com)
