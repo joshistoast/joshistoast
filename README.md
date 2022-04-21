@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 <div align="right">
   <a href="https://app.daily.dev/joshwcorbett" target="_blank">
