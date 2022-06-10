@@ -14,7 +14,7 @@
 I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 
 #### 🔭 Currently working on:
-A new shopping experience for [Flag Nor Fail](https://flagnorfail.com)
+A new shopping experience for [Flag Nor Fail](https://next.flagnorfail.com)
 
 #### ⚡ Side Projects:
 [Vue Open Storefront](https://github.com/joshwcorbett/vue-open-storefront)<br>
