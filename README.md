@@ -22,7 +22,7 @@ A new shopping experience for [Flag Nor Fail](https://next.flagnorfail.com)
 </div>
 
 #### 📫 How to reach me
-I'm unavailable for freelance projects at the moment, but you can always hit me up via email [joshwcorbett@icloud.com](mailto:joshwcorbett@icloud.com)
+I'm taking on freelance projects, so hit me up via email at [joshwcorbett@icloud.com](mailto:joshwcorbett@icloud.com)
 
 ---
 
