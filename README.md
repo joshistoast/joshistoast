@@ -13,7 +13,7 @@ A new shopping experience for Flag Nor Fail
 <div style="display:flex;flex-direction:row;flex-wrap:wrap">
   <a href="https://www.typescriptlang.org/"><img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343" /></a>
   <a href="https://vuejs.org"><img width="40px" height="40px" src="https://github.com/vuejs/art/blob/master/logo.png?raw=true" /></a>
-  <a href="https://nuxtjs.org"><img width="40px" height="40px" src="https://nuxtjs.org/design-kit/colored-logo.png" /></a>
+  <a href="https://nuxt.com"><img width="40px" height="40px" src="https://nuxtjs.org/design-kit/colored-logo.png" /></a>
   <a href="https://graphql.org"><img width="40px" height="40px" src="https://graphql.org/img/logo.svg" /></a>
   <a href="https://postcss.org"><img width="40px" height="40px" src="https://postcss.org/assets/postcss.83d93145.svg" /></a>
   <a href="https://tailwindcss.com"><img width="40px" height="40px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" /></a>
