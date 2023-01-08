@@ -3,7 +3,7 @@
 I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 
 #### 🔭 Currently working on:
-A new shopping experience for Flag Nor Fail
+[Nuxt Storefront](https://github.com/Flag-Nor-Fail/nuxt-storefront) - Improving the Nuxt 3 + Shopify developer experience
 
 #### ⚡ Side Projects:
 [Vue Open Storefront](https://github.com/joshwcorbett/vue-open-storefront)<br>
