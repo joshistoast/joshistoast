@@ -3,6 +3,7 @@
 I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 
 #### 🔭 Currently working on:
+[Taleweave](https://github.com/joshwcorbett/taleweave) - Open source social platform for sharing short stories
 [Nuxt Storefront](https://github.com/Flag-Nor-Fail/nuxt-storefront) - Improving the Nuxt 3 + Shopify developer experience
 
 #### 🔨 Tools I Use
