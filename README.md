@@ -2,12 +2,15 @@
 
 I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 
+#### [🎧 Uses](./USES.md)
+
 #### 🔭 Currently working on:
 [Taleweave](https://github.com/joshwcorbett/taleweave) - Open source social platform for sharing short stories
 
 [Nuxt Storefront](https://github.com/Flag-Nor-Fail/nuxt-storefront) - Improving the Nuxt 3 + Shopify developer experience
 
 #### 🔨 Tools I Use
+
 <div style="display:flex;flex-direction:row;flex-wrap:wrap">
   <a href="https://www.typescriptlang.org/"><img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343" /></a>
   <a href="https://vuejs.org"><img width="40px" height="40px" src="https://github.com/vuejs/art/blob/master/logo.png?raw=true" /></a>
