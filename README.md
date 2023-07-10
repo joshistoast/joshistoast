@@ -5,7 +5,7 @@ I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 #### [🎧 Uses](./USES.md)
 
 #### 🔭 Currently working on:
-[Taleweave](https://github.com/joshwcorbett/taleweave) - Open source social platform for sharing short stories
+[Taleweave](https://github.com/joshistoast/taleweave) - Open source social platform for sharing short stories
 
 [Nuxt Storefront](https://github.com/Flag-Nor-Fail/nuxt-storefront) - Improving the Nuxt 3 + Shopify developer experience
 
@@ -23,9 +23,9 @@ I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 </div>
 
 #### 📫 How to reach me
-I'm taking on freelance projects, so hit me up via email at [joshwcorbett@icloud.com](mailto:joshwcorbett@icloud.com)
+I'm taking on freelance projects, so hit me up via email at [joshistoast@icloud.com](mailto:joshistoast@icloud.com)
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshwcorbett&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1F2937&text_color=EAF0F6&title_color=3B82F5&icon_color=3B82F5" alt="Josh Corbett's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshwcorbett&hide_border=true&bg_color=1F2937&text_color=EAF0F6&title_color=3B82F5&icon_color=3B82F5&layout=compact" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshistoast&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1F2937&text_color=EAF0F6&title_color=3B82F5&icon_color=3B82F5" alt="Josh Corbett's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshistoast&hide_border=true&bg_color=1F2937&text_color=EAF0F6&title_color=3B82F5&icon_color=3B82F5&layout=compact" /> |
 | ------------- | ------------- |
