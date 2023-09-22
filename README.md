@@ -5,9 +5,7 @@ I'm Josh Corbett, front-end web developer and designer for 4 years from the USA.
 #### [🎧 Uses](./USES.md)
 
 #### 🔭 Currently working on:
-[Taleweave](https://github.com/joshistoast/taleweave) - Open source social platform for sharing short stories
-
-[Nuxt Storefront](https://github.com/Flag-Nor-Fail/nuxt-storefront) - Improving the Nuxt 3 + Shopify developer experience
+[Taleweave](https://github.com/joshistoast/taleweave) - Open source writing platform for sharing stories
 
 #### 🔨 Tools I Use
 
