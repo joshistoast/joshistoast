@@ -18,10 +18,18 @@ Mouse - [Logitech MX Master 3S](https://www.amazon.com/Logitech-Master-Performan
 
 ## Libraries, Languages and Frameworks oh my!
 
-I tend to venture out into the sea of current web technologies that deliver a smoother developer experience and faster user experience. Here's what I've found and am using today.
+I tend to venture out into the sea of current web technologies that deliver faster and smoother developer and user experiences. Here's what I've found and am using today.
 
 - [Sveltekit](https://kit.svelte.dev/)
 
+- [Remix](https://remix.run)
+
 - [Vue 3](https://vuejs.org) / [Nuxt 3](https://nuxt.com)
 
-- Learning [Astro](https://astro.build)
+## Currently Learning
+
+- [Hydrogen](https://hydrogen.shopify.dev/) for building fast and extensible custom shopify stores
+
+- [Astro](https://astro.build) for building bleeding edge static sites
+
+- [Shopify App Development](https://shopify.dev/docs/apps) for making Shopify merchant's lives just a little easier
