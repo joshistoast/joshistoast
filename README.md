@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-I'm Josh Corbett, front-end web developer and designer of 5 years from the USA.
+Josh Corbett is a front-end web developer and designer from Montana, USA.
 
 #### [🎧 Uses](./USES.md)
 
