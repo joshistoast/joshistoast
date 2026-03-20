@@ -19,7 +19,7 @@
 
 - 🌱 Deepening my knowledge of **Data Structures & Algorithms**
 - 🤝 Contributing to **[Invoke AI](https://github.com/invoke-ai/InvokeAI)** — Creative engine for AI image generation
-- 🛠️ Building [**Rollsmith**](https://rollsmith.app) — Open-source D&D toolset built for community content
+- 🛠️ Building [**FoxTrail**](https://usefoxtrail.com) — Local aggregator and API for events across the Flathead Valley
 - 💼 Growing [**Aether Fox Studio**](https://aetherfox.studio) — Web design & digital consulting
 
 ## 📫 Let's Connect
